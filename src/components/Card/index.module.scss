@@ -1,0 +1,28 @@
+body {
+  // background-color: be;
+  // overflow-x: hidden;
+  // overflow-y: hidden;
+  width: 100%;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  padding: 50px 100px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  width: 800px;
+  height: 300px;
+  background-color: yellow;
+  margin: 40px;
+  padding: 40px;
+  border-radius: 10px;
+}
