@@ -6,8 +6,8 @@
 }
 
 .progressMainWrapper {
-  background-color: black;
-  height: 15px;
+  background-color: transparent;
+  height: 10px;
   position: fixed;
   top: 0;
   left: 0;
@@ -16,6 +16,6 @@
 }
 
 .progressMainStyle {
-  height: 15px;
-  background-color: green;
+  height: 10px;
+  background-color: #ff7f50;
 }
